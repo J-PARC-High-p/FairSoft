@@ -1,0 +1,5 @@
+spack:
+  specs:
+  - fairmq@1.4.26 cxxstd=17 ^boost@1.72.0 cxxstd=17
+  concretization: together
+  view: false
